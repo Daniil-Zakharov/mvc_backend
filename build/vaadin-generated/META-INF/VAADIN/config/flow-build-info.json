@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "I:\\Projects\\Java\\BackendMVC",
+  "node.version": "v20.15.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "I:\\Projects\\Java\\BackendMVC\\.\\src\\main\\frontend",
+  "connect.javaSourceFolder": "I:\\Projects\\Java\\BackendMVC\\src\\main\\java",
+  "javaResourceFolder": "I:\\Projects\\Java\\BackendMVC\\src\\main\\resources",
+  "connect.applicationProperties": "I:\\Projects\\Java\\BackendMVC\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "I:\\Projects\\Java\\BackendMVC\\build\\generated-resources\\openapi.json",
+  "project.frontend.generated": "I:\\Projects\\Java\\BackendMVC\\.\\src\\main\\frontend\\generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "build",
+  "react.enable": true
+}
